@@ -1,3 +1,9 @@
 body{
-    
+    background-color: blue;
+    color: white;
+    font-family: "PT Serif", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
 }
